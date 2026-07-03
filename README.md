@@ -28,9 +28,9 @@ brew install --cask xquartz
 ```fish
 git clone https://github.com/JosefAlbers/zcode-docker-macos
 cd zcode-docker-macos
-chmod +x *.fish
+chmod +x *.fish # or `chmod +x *.sh`
 
-./run.fish # or ./run.sh
+./run.fish # or `./run.sh`
 ```
 
 ### Inside the container
@@ -40,7 +40,7 @@ zcode --no-sandbox
 
 ### Terminal 2: after clicking login button
 ```fish
-./login.fish # or ./login.sh
+./login.fish # or `./login.sh`
 ```
 
 ## Troubleshooting
