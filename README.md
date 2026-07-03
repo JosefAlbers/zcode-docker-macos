@@ -2,6 +2,8 @@
 
 Run [ZCode](https://zcode.z.ai) inside a Podman container on macOS, with the window forwarded to your Mac desktop via XQuartz, and OAuth login (Z.ai coding plan) working end to end.
 
+[![zcode](https://github.com/user-attachments/assets/debd74e5-5a43-483c-99d5-5f9795b5a678)](https://youtu.be/yMb11gk7Cpc)
+
 ## Prereqs
 
 ### Podman
